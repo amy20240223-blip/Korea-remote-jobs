@@ -7,9 +7,9 @@
 
 ### 🔹 当前开放职位
 
-- [网络运维主管 / Network Operations Lead（Remote｜50–70K）](https://github.com/你的用户名/仓库名/issues/网络主管Issue编号)
-- [研发主管 / Engineering Manager（Remote）](https://github.com/你的用户名/仓库名/issues/研发主管Issue编号)
-- [架构师 / Software Architect（Remote）](https://github.com/你的用户名/仓库名/issues/架构师Issue编号)
+- [网络运维主管 / Network Operations Lead（Remote｜50–70K）](https://github.com/amy20240223-blip/Korea-remote-jobs/issues/3)
+- [研发主管 / Engineering Manager（Remote）](https://github.com/amy20240223-blip/Korea-remote-jobs/issues/1)
+- [架构师 / Software Architect（Remote）](https://github.com/amy20240223-blip/Korea-remote-jobs/issues/2)
 
 ---
 
